@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.hasor:hasor-dataway:4.1.3-fix20200414">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/hasor/hasor-dataway/4.1.3-fix20200414/hasor-dataway-4.1.3-fix20200414.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/hasor/hasor-dataway/4.1.3-fix20200414/hasor-dataway-4.1.3-fix20200414-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/hasor/hasor-dataway/4.1.3-fix20200414/hasor-dataway-4.1.3-fix20200414-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
